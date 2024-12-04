@@ -9,9 +9,7 @@ public class MethodType {
 	3.Return Type Method  
  */
 	
-	//test git
-	
-	public static int hourlyIncome = 68;
+	public static int hourlyIncome = 65;
 
 	public static void main(String[] args) {
 		MethodType obj = new MethodType();
