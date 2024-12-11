@@ -6,7 +6,7 @@ public class AccessModifier {
 	
 	private int age = 29; 			// private - Only same class can access
 	
-	protected int ssn = 1245678935; // protected - classes in the same package and subclass
+	protected int ssn = 1245678936; // protected - classes in the same package and subclass
 
 			String Address = "Heritage Tower"; 	// default - classes in same package can access
 }
